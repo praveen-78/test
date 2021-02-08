@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/istio/istio/release-1.6/samples/bookinfo/netwo
 
 kubectl delete -f samples/bookinfo/networking/virtual-service-all-v1.yaml
 https://raw.githubusercontent.com/istio/istio/release-1.6/samples/bookinfo/networking/virtual-service-all-v1.yaml
+
+new line added by praveen
